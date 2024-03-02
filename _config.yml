@@ -105,7 +105,7 @@ analytics:
 # Site Author
 author:
   name             : "Cora Zhenyan Wu"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/assets/images/1689134430036.jpeg"
   bio              : "I am a logical person."
   location         : "British Columbia"
   email            :
