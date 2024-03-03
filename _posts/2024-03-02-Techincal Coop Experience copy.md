@@ -12,10 +12,10 @@ tags:
 
 8 months coop work experience in Gatekeeper Systems Inc.
 
-* Lists within lists do not break the ordered list numbering order
-* Your list styles go deep enough.
+* Technical Writer
+* QA team, Developer team Assistant
 
-### Ordered -- Unordered -- Ordered
+### Work Content
 
 
 Developed, created, and edited new and existing user manuals, quick install guides and product sheets
@@ -33,49 +33,6 @@ Created sets of technical content (user and developer guides, API references, co
 Worked on software applications, software development lifecycle, and development methodologies (Agile/Scrum)
 
 
-1. ordered item
-2. ordered item 
-   * **unordered**
-   * **unordered** 
-     1. ordered item
-     2. ordered item
-3. ordered item
-4. ordered item
-
-### Ordered -- Unordered -- Unordered
-
-1. ordered item
-2. ordered item 
-   * **unordered**
-   * **unordered** 
-     * unordered item
-     * unordered item
-3. ordered item
-4. ordered item
-
-### Unordered -- Ordered -- Unordered
-
-* unordered item
-* unordered item 
-  1. ordered
-  2. ordered 
-     * unordered item
-     * unordered item
-* unordered item
-* unordered item
-
-### Unordered -- Unordered -- Ordered
-
-* unordered item
-* unordered item 
-  * unordered
-  * unordered 
-    1. **ordered item**
-    2. **ordered item**
-* unordered item
-* unordered item
-
-### Task Lists
 
 - [x] Finish my changes
 - [ ] Push my commits to GitHub
