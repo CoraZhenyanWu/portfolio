@@ -10,12 +10,14 @@ tags:
   - markup
 ---
 
-Nested and mixed lists are an interesting beast. It's a corner case to make sure that
+In my spare time, I am an volunteer in different field, areas to concentrate on helping people, environment.
 
 * Team Leader--United Nations Framework Convention on Climate Change (COP 24)
 * Orietation Ambassador--University of the Fraser Valley (UFV)
 
 ### Team Leader
+Time: February 2019 – March 2019
+Location: Henan China
 
 1. Organized and delegated tasks to 30 team members on securing up to $1000 in sponsorships
 
@@ -24,6 +26,8 @@ Nested and mixed lists are an interesting beast. It's a corner case to make sure
 3. Designed and utilized materials for promotional marketing materials
 
 ### Orientation Ambassador
+Time: January 2024
+Location: Abbotsford, Canada
 
 1. Greeted students to the event and assisted with setup
 
