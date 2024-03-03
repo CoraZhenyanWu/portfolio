@@ -26,6 +26,12 @@ Location: Henan China
 
 3. Designed and utilized materials for promotional marketing materials
 
+4. Highly organized and skilled at focusing on a high volume of tasks with competing priorities and deadlines
+
+5. Coordinating events and managing office logistics
+
+6. Overseeing team members records and performance management
+
 ### Orientation Ambassador
 Time: January 2024
 

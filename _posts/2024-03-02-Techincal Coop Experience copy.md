@@ -32,7 +32,7 @@ tags:
 
 7. Worked on software applications, software development lifecycle, and development methodologies (Agile/Scrum)
 
-
+8. Proficiency in using office equipment such as printers, scanners and fax machines
 
 - [x] Finish my changes
 - [ ] Push my commits to GitHub
