@@ -1,13 +1,17 @@
 ---
 title: "Technical Coop Experience"
 categories:
-  - Edge Case
+  - Technical/IT/Document
 tags:
-  - content
-  - css
-  - edge case
-  - lists
-  - markup
+  - writing
+  - software
+  - test
+  - Agile/Scrum
+  - QA
+  - Developer
+  - API
+  - RoboHelp
+  - Linux
 ---
 
 8 months coop work experience in Gatekeeper Systems Inc.

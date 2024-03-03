@@ -1,13 +1,14 @@
 ---
 title: "Volunteer Experience"
 categories:
-  - Edge Case
+  - Experience
 tags:
-  - content
-  - css
-  - edge case
-  - lists
-  - markup
+  - leadership
+  - coordinate
+  - supervisition
+  - help
+  - manner
+  - financing
 ---
 
 In my spare time, I am an volunteer in different field, areas to concentrate on helping people, environment.
@@ -44,28 +45,6 @@ Location: Abbotsford, Canada
 3. Provided guided campus tours of the institution, responded to questions from directed students and their families to assigned activity rooms
 
 4. Referred more complex or sensitive enquiries to the recruitment team or campus partners
-
-### Unordered -- Ordered -- Unordered
-
-* unordered item
-* unordered item 
-  1. ordered
-  2. ordered 
-     * unordered item
-     * unordered item
-* unordered item
-* unordered item
-
-### Unordered -- Unordered -- Ordered
-
-* unordered item
-* unordered item 
-  * unordered
-  * unordered 
-    1. **ordered item**
-    2. **ordered item**
-* unordered item
-* unordered item
 
 ### Task Lists
 

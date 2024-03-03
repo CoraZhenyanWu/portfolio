@@ -1,13 +1,15 @@
 ---
 title: "Work Experience"
 categories:
-  - Edge Case
+  - Service Industry
 tags:
-  - content
-  - css
-  - edge case
-  - lists
-  - markup
+  - multitasking
+  - customer service
+  - time management
+  - mentorship
+  - communication
+  - presentation
+  - organization
 ---
 
 Some work experience in different areas
