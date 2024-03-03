@@ -17,6 +17,7 @@ In my spare time, I am an volunteer in different field, areas to concentrate on 
 
 ### Team Leader
 Time: February 2019 – March 2019
+
 Location: Henan China
 
 1. Organized and delegated tasks to 30 team members on securing up to $1000 in sponsorships
@@ -27,6 +28,7 @@ Location: Henan China
 
 ### Orientation Ambassador
 Time: January 2024
+
 Location: Abbotsford, Canada
 
 1. Greeted students to the event and assisted with setup
