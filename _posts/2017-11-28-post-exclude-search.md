@@ -6,10 +6,8 @@ categories:
 
 ---
 
-The recommendation report is based on my research and professional opinion and recommend appropriate actions or interventions in response to the specific problem during pandemic. 
+The recommendation report is based on my research and professional opinion and recommend appropriate actions or interventions in response to the specific problem during pandemic. <br>
 Note: All the name, address and personal innformation is imaginary
-
-
 
 Suggestions for Adjustment of Courses
 
@@ -18,7 +16,7 @@ TO: Mary, the president of the education company<br>
 FROM: Zhenyan Wu, an English teacher member of the teaching and research group<br>
 SUBJECT: Recommendation Report for mitigating losses and increasing profitability<br>
 
-Introduction<br>
+<h1 alig="center">Introduction</h1><br>
 The purpose of the report is to find operation problems of the company and the corresponding solutions. During the covid-19 period, our company has lost 14% profits this quarter, most of the issues are less new students, the low rate of students continues studying, inappropriate price, the inflexible course style, some unnecessary courses offered and so on. In order to help our company to mitigate losses and increase profitability, I have some ideas for you to choose to improve our company's current situation.
 
 I. Increase publicity efforts<br>
@@ -66,14 +64,3 @@ Hope my suggestions can help our company overcome difficulties and increase prof
 
 Warm regards<br>
 Zhenyan Wu
-
-```yaml
-algolia:
-  # Exclude more files from indexing
-  files_to_exclude:
-    - index.html
-    - index.md
-    - excluded-file.html
-    - _posts/2017-11-28-post-exclude-search.md
-    - subdirectory/*.html
-```
