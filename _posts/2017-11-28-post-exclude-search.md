@@ -16,7 +16,7 @@ TO: Mary, the president of the education company<br>
 FROM: Zhenyan Wu, an English teacher member of the teaching and research group<br>
 SUBJECT: Recommendation Report for mitigating losses and increasing profitability<br>
 
-<h1 alig="center">Introduction</h1><br>
+<h1 align="center">Introduction</h1><br>
 The purpose of the report is to find operation problems of the company and the corresponding solutions. During the covid-19 period, our company has lost 14% profits this quarter, most of the issues are less new students, the low rate of students continues studying, inappropriate price, the inflexible course style, some unnecessary courses offered and so on. In order to help our company to mitigate losses and increase profitability, I have some ideas for you to choose to improve our company's current situation.
 
 I. Increase publicity efforts<br>
