@@ -31,7 +31,8 @@ iii. -Set up private courses<br>
 That is all methods I have list out to help our company get rid of the current situation. I will give specific descriptions of each list and how to execute it, the benefit of the result.
 
 <h1 align="center">Solution 1: Increase publicity efforts</h1>
-> “Consumer acquisition is a crucial part of a platform's growth strategy and pivotal for successful interactions with sellers” (Poddar et al., 2022). <br>
+> “Consumer acquisition is a crucial part of a platform's growth strategy and pivotal for successful interactions with sellers” (Poddar et al., 2022).
+
 The best development for a company is to cooperate with old customers and attracts new customers at the same time. Old customers can keep the stable operation of a company, and the new customers can promote the profit for the company. I plan to start with these three areas, a discount for new students, some bonus for old students to renew the course and open a trial class.
 
 <h2 align="center">Discount for new students</h2>
