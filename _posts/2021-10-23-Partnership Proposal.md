@@ -18,19 +18,19 @@ Recently, our school has received the news about the Abbotsford Canucks of AHL p
 
 Before the hockey game begins, accounting, marketing, business analytics, graphic design, and visual arts student volunteers ought to prepare in advance.
 
--The duty of accounting students is to prepare a proposed budget for each step.
--Marketing majors’ main goal is to look for sponsors. Such as fitness gyms for equipment for warm-up purposes, or food trucks to sell hamburgers, soft drinks, hot dogs and so on during the break.
--At the same time, business analytics students can survey the campus about which kind of food is most welcomed to the audience so that marketing students can find the proper sponsors.
--The graphic design students were assigned the task of creating merchandise to attract audiences to purchase them as souvenirs, which would provide Abbotsford Canucks extra income.
--One of the most time-consuming works is for the visual arts department, as they would need to take pictures and film the event from the beginning.
+1. The duty of accounting students is to prepare a proposed budget for each step.<br>
+2. Marketing majors’ main goal is to look for sponsors. Such as fitness gyms for equipment for warm-up purposes, or food trucks to sell hamburgers, soft drinks, hot dogs and so on during the break.<br>
+3. At the same time, business analytics students can survey the campus about which kind of food is most welcomed to the audience so that marketing students can find the proper sponsors.<br>
+4. The graphic design students were assigned the task of creating merchandise to attract audiences to purchase them as souvenirs, which would provide Abbotsford Canucks extra income.<br>
+5. One of the most time-consuming works is for the visual arts department, as they would need to take pictures and film the event from the beginning.
 
 Initially, the departments of English, arts, film, music, CIS, and criminal justice share the work and cooperate with one another to advertise the game.
  
--This event also provides an opportunity for English major students to showcase their abilities as a host. It also demonstrates our student’s capability to control the atmosphere to audiences. 
--Posters are designed by art students and the film department creates promotion videos. 
--Music students can create a playlist to enliven the atmosphere.
--CIS major students are in charge of the computer operation and troubleshooting.
--Criminal and justice department map out a route and guide spectators to the entrance and parking.
+1. This event also provides an opportunity for English major students to showcase their abilities as a host. It also demonstrates our student’s capability to control the atmosphere to audiences. <br>
+2. Posters are designed by art students and the film department creates promotion videos. <br>
+3. Music students can create a playlist to enliven the atmosphere.<br>
+4. CIS major students are in charge of the computer operation and troubleshooting.<br>
+5. Criminal and justice department map out a route and guide spectators to the entrance and parking.
 
 Cheerleaders and nursing students will be spread throughout the stadium to maintain the flow of the event.
  
@@ -39,7 +39,7 @@ Cheerleaders and nursing students will be spread throughout the stadium to maint
 
 At the end of the game, criminals, justice, and other volunteers are in charge of the tail-end work.
  
--Criminal and justice students are still responsible for keeping the order of exiting the stadium to avoid stampedes.
+-Criminal and justice students are still responsible for keeping the order of exiting the stadium to avoid stampedes.<br>
 -All other volunteers are to stay and help to clean up the stadium.
  
 Finally, media arts and journalism students are responsible for assisting other news networks to edit reports about the game.
