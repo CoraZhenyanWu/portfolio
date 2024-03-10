@@ -34,17 +34,17 @@ Initially, the departments of English, arts, film, music, CIS, and criminal just
 
 Cheerleaders and nursing students will be spread throughout the stadium to maintain the flow of the event.
  
--Cheerleaders can choreograph for the opening of the show to warm up the audience.
--It is very common for athletes to get injured during violent collisions. Nursing students can provide emergency care for their wounds in the meantime.
+1. Cheerleaders can choreograph for the opening of the show to warm up the audience.<br>
+2. It is very common for athletes to get injured during violent collisions. Nursing students can provide emergency care for their wounds in the meantime.
 
 At the end of the game, criminals, justice, and other volunteers are in charge of the tail-end work.
  
--Criminal and justice students are still responsible for keeping the order of exiting the stadium to avoid stampedes.<br>
--All other volunteers are to stay and help to clean up the stadium.
+1. Criminal and justice students are still responsible for keeping the order of exiting the stadium to avoid stampedes.<br>
+2. All other volunteers are to stay and help to clean up the stadium.
  
 Finally, media arts and journalism students are responsible for assisting other news networks to edit reports about the game.
  
--Media arts students can clip the most memorable moments into a video, and journalism students can summarize activities that were going on during the game into a report.
+1. Media arts students can clip the most memorable moments into a video, and journalism students can summarize activities that were going on during the game into a report.
 
 <h1 align="center">Conclusion</h1>
 To create a partnership with the Abbotsford Canucks of AHL, many hours and work will be involved both in front and behind the scenes. It requires communication, collaboration, and arranging time reasonably between many departments. These are the keys to ensure a successful and promising partnership with Abbotsford Canucks. If our school can prove our worth, then it will open doors to other opportunities in the future.
